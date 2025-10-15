@@ -2,6 +2,10 @@
 /**
  * Snippet MODX - Carte Interactive avec Leaflet.js
  * 
+ *
+ * @author David MEYER
+ * @copyright Copyright 2025, XMEDIACREATION
+ *
  * USAGE CARTE SIMPLE (un point) :
  * [[!MapDisplay? 
  *   &coordsTV=`googlemap`
